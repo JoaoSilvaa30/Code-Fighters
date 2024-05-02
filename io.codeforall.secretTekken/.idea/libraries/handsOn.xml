@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="handsOn">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/handsOn/out/production/handsOn/Martial Hero.zip!/" />
+      <root url="jar://$PROJECT_DIR$/handsOn/out/production/handsOn/Martial Hero 2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
